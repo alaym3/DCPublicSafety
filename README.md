@@ -1,3 +1,7 @@
-# DCPublicSafety
+# dc-peace-justice
 
-https://docs.google.com/document/d/19pTeNAtrzP0ZcpCAkkmqTNTkIdjiAEomHI5aXR4CuZA/edit?usp=sharing
+Our project for Social data analysis and visualization (02806) is contained here.
+
+The full code is contained in ExplainerNotebook.ipynb. All of the datasets referenced in the notebook are included.
+
+Final website: ---include link when done.
